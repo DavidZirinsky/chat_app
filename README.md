@@ -7,7 +7,7 @@
   
  Note that the `SENDGRID_API_KEY` you may have to create a Sendgrid account to obtain your own key
  
- ##If you want to run this locally
+ ## If you want to run this locally
  1. Make sure you have python3 and pip3 installed on your local environment
  
  2. In the root level of your project run: `pip3 install -r requirements.txt`
