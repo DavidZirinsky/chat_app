@@ -23,7 +23,7 @@
  From there run `pytest server_test.py `
  or alternatively `python3 server_test.py `
  
-#API Methods: 
+# API Methods: 
  ### Base Url:
  **Locally:**
  `localhost:5000`, this can be changed in app.py in the main section
