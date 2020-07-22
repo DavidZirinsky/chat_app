@@ -136,7 +136,7 @@
  ```json
  {
   "to": "dzirignsky@gmail.com",
-  "to_name": "Mr. Fake",
+  "to_name": "David Z",
   "from_name": "David",
   "from": "dzirinsky@gmail.com",
   "body": "Whatever you want"
