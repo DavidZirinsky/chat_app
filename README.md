@@ -1,5 +1,5 @@
 ## Overview
- This is a messenger API that sends messages from one user to another, it also stores messages for later retrieval. This app is hosted with Heroku, but can also be ran locally, as you can see below.
+ This is a messenger API that sends messages from one user to another, it also stores messages for later retrieval.
  This app uses email as a vehicle to send messages, no one ever said this would be a fast process!
  HTML is also removed from any message. 
  ## How to run this with Docker
@@ -28,7 +28,6 @@
  **Locally:**
  `localhost:5000`, this can be changed in app.py in the main section
  
- **Online**: `https://chatappdz.herokuapp.com`
  ### Status/ Is this actually running?
  
  Useful for debugging and for kubernetes liveness probes
